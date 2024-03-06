@@ -1,5 +1,12 @@
 # create-eth
 
+## 0.0.35
+
+### Patch Changes
+
+- b03c011: Add format with prettier task
+- 62553fd: forge flatten for foundy
+
 ## 0.0.34
 
 ### Patch Changes
